@@ -1,3 +1,5 @@
+![logo](https://github.com/ArinP7/ArinP7/blob/main/Black%20Minimalist%20Corporate%20Business%20Personal%20Profile%20LinkedIn%20Banner%202.png)
+
 # 💫 About Me:
 I am Arin Podder, a B.Tech Computer Science and Engineering student at Sister Nivedita University with a strong interest in software development, artificial intelligence, and digital product design. I have hands-on experience with HTML, CSS, JavaScript, Python, C/C++, and Data Structures & Algorithms, along with skills in graphic design and service design. I focus on building efficient, scalable, and user-centric digital solutions while continuously enhancing my technical and problem-solving abilities.
 
